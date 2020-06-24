@@ -124,7 +124,7 @@ for i in range(40):
 
     time.sleep(0.1)
 
-plt.plot(t, n,)
+plt.plot(t, n)
 plt.xlabel('timestamp')
 plt.ylabel('number')
 plt.title('# collected data plot')
